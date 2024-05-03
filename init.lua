@@ -1,4 +1,5 @@
 
+--somecomments
 
 require("option")
 require("plugins")
