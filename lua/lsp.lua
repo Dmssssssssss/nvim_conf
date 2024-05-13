@@ -121,3 +121,7 @@ lspconfig.clangd.setup({
 lspconfig.ocamllsp.setup({
 	on_attach = on_attach,
 })
+
+lspconfig.jdtls.setup({
+    on_attach = on_attach,
+})
